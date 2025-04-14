@@ -5,6 +5,11 @@
             "username": "bintzge",
             "password": "bintz212",
             "role": "admin"       
+        }, 
+        {
+            "username": "Ditzzcuan",
+            "password": "ditzprem",
+            "role": "premium"       
         }
     ]
 }
