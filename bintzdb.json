@@ -3,18 +3,13 @@
 
         {
             "username": "bintzge",
-            "password": "bintz212",
+            "password": "bintzadmin",
             "role": "admin"       
         }, 
         {
             "username": "Ditzzcuan",
             "password": "ditzprem",
             "role": "premium"       
-        }, 
-        {
-            "username": "bintz",
-            "password": "admin",
-            "role": "admin"     
         }
     ]
 }
