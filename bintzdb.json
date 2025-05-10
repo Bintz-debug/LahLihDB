@@ -25,6 +25,11 @@
             "username": "free",
             "password": "free22",
             "role": "free"       
+        },
+        {
+            "username": "Renzy1",
+            "password": "Renzy1",
+            "role": "premium"       
         }
     ]
 }
